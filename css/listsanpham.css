@@ -1,0 +1,41 @@
+@charset "utf-8";
+#table{
+		cellspacing: 25px;
+		width: 950px;
+	}
+
+ul{
+     list-style-type: none;
+	 
+}
+.liphantrang{
+	 float:left;
+	 margin: 3px; 
+	 padding: 4px;
+}
+#phantrang{
+	margin-left: 550px;
+}
+.spanphantrang{
+	
+	display:inline-block;
+	padding: 0px 3px;
+	background: blue;
+	color:white;
+}
+
+.tabtr{
+	height: 30px;
+	text-align: center;
+}
+
+.tabtd{
+	align: center;	
+}
+#xoa{
+	height: 3em;
+	width:8em;
+	font-family: Helvetica Neue;
+	background-color: #0069A8;
+	color: white;
+	}
